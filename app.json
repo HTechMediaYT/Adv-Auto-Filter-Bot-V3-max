@@ -15,11 +15,11 @@
     "success_url": "https://telegram.dog/HTechMediaSupport",
     "env": {
         "APP_ID": {
-            "description": "Your APP ID From my.telegram.org or @MT_MyTelegramOrg_Bot",
+            "description": "Your APP ID From my.telegram.org or @ScrapperRoBot",
             "value": ""
         },
         "API_HASH": {
-            "description": "Your API Hash From my.telegram.org or @MT_MyTelegramOrg_Bot",
+            "description": "Your API Hash From my.telegram.org or @ScrapperRoBot",
             "value": ""
         },
         "BOT_TOKEN": {

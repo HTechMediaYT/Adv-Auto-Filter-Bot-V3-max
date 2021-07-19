@@ -119,11 +119,11 @@ async def start(bot, update):
         return
 
     buttons = [[
-        InlineKeyboardButton('👨‍💼Creater', url=f'https://t.me/{NxtStark}'),
+        InlineKeyboardButton('👨‍💼Creater', url=f'https://t.me/NxtStark'),
         InlineKeyboardButton('Help 🤔', callback_data="help")
     ],[
-        InlineKeyboardButton('🗣️Group', url=f'{HTechMediaSupport}'),
-        InlineKeyboardButton('Channel🔊', url=f'{HTechMedia}')
+        InlineKeyboardButton('🗣️Group', url=f'HTechMediaSupport'),
+        InlineKeyboardButton('Channel🔊', url=f'HTechMedia')
     ],[
         InlineKeyboardButton('🖥️ Tutorial Video 🖥️', url='https://youtu.be/OTqZmADyOjU')
     ]]

@@ -77,9 +77,9 @@ async def start(bot, update):
 
         elif file_type == "video":
         
-            await update.bot.send_video(
+            await update.bot.send_audio(
                 chat_id=update.chat.id,
-                video = file_id,
+                audio = file_id,
                 caption = caption,
                 parse_mode="html",
                 reply_markup=InlineKeyboardMarkup(
@@ -122,8 +122,8 @@ async def start(bot, update):
         InlineKeyboardButton('👨‍💼Creater', url=f'https://t.me/NxtStark'),
         InlineKeyboardButton('Help 🤔', callback_data="help")
     ],[
-        InlineKeyboardButton('🗣️Group', url=f'HTechMediaSupport'),
-        InlineKeyboardButton('Channel🔊', url=f'HTechMedia')
+        InlineKeyboardButton('🗣️Group', url=f'https://t,me/HTechMediaSupport'),
+        InlineKeyboardButton('Channel🔊', url=f'https://t,me/HTechMedia')
     ],[
         InlineKeyboardButton('🖥️ Tutorial Video 🖥️', url='https://youtu.be/OTqZmADyOjU')
     ]]

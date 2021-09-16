@@ -86,14 +86,10 @@ You can deploy this bot anywhere.
 
 <i>**[Watch Deploying Tutorial...](https://youtu.be/KTearEPhumc)**</i>
 
-<details><summary>Deploy To Heroku</summary>
-<p>
-<br>
-<a href="https://heroku.com/deploy?template=https://github.com/HTechMediaYT/Adv-Auto-Filter-Bot-V3-max/tree/main">
-  <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
-</a>
-</p>
-</details>
+Deploy on Heroku
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/HTechMediaYT/Remove-BG-Bot/)
+
 
 ## Support   
 Join Our [Telegram Group](https://www.telegram.dog/HTechMediaSupport) For Support/Assistance And Our [Channel](https://www.telegram.dog/HTechMedia) For Updates.   

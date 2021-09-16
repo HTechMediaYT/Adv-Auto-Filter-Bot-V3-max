@@ -82,9 +82,9 @@ OR
 
 
 ## Deploy
-You can deploy this bot anywhere.
+`You can deploy this bot anywhere.`
 
-<i>**[Watch Deploying Tutorial...](https://youtu.be/KTearEPhumc)**</i>
+
 
 Deploy on Heroku
 

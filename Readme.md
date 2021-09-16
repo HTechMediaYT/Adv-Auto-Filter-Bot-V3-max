@@ -14,15 +14,35 @@
   </a>  
 </p>
 
-[![HTechMediaYT](https://img.shields.io/badge/HTechMedia-TG--Channel-green?style=for-the-badge&logo=telegram)](https://telegram.dog/HTechMedia)         [![HTechMediaYT](https://img.shields.io/badge/HTechMedia-TG--Support-orange?style=for-the-badge&logo=telegram)](https://telegram.dog/HTechMediaSupport)
+---
+    
+<p align="center">
+  <a href="https://www.youtube.com/channel/UCrAM4Fg0zn7uLgAAfII-SWQ">
+    <img src="https://img.shields.io/badge/youtube-grey?style=for-the-badge&logo=youtube"/>
+  </a>
+  <a href="https://github.com/HTechMediaYT">
+    <img src="https://img.shields.io/github/followers/HTechMediaYT?label=GitHub&logo=github&style=for-the-badge&color=blue"/>
+  </a>  
+</p>  
+<p align="center">  
+  <a href="https://instagram.com/h_tech_media">
+    <img src="https://img.shields.io/badge/Instagram-grey?style=for-the-badge&logo=instagram"/>
+  </a>
+  <a href="https://www.facebook.com/HTechMediaYT">
+    <img src="https://img.shields.io/badge/facebook-grey?style=for-the-badge&logo=facebook"/>
+  </a> 
+  <a href="https://telegram.me/HTechMedia">
+    <img src="https://img.shields.io/badge/Telegram-grey?style=for-the-badge&logo=telegram"/>
+  </a>
+  <a href="https://telegram.me/HTechMediaSupport">
+    <img src="https://img.shields.io/badge/Support-grey?style=for-the-badge&logo=telegram"/>
+  </a>  
+</p>
 
-[![HTechMedia](https://img.shields.io/badge/HTechMedia-Youtube-red?style=for-the-badge&logo=youtube)](http://youtube.com/channel/UCrAM4Fg0zn7uLgAAfll-SWQ)  
-ㅤㅤㅤㅤㅤㅤㅤ  
-[![MIT license](https://img.shields.io/badge/License-MIT-blue?style=flat)](https://github.com/HTechMediaYT/Adv-Auto-Filter-Bot-V3-maxblob/main/LICENSE)  [![Open Source](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/HTechMediaYT/Adv-Auto-Filter-Bot-V3-max)
+--- 
 
 
 
-# Watch Youtube Tutorial Video ⬇
 
 ## Usage
 

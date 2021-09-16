@@ -110,17 +110,16 @@ Fork the repo, Do not Import code.
 
 ```
 
-```
-LEGAL DISCLAIMER
-
-Developer or his team won't be liable for any loss caused by MISUSE of this Script.
-This Bot is Indended to be used only for Educational Purposes.
-
-```
+## Disclaimer
+[![GNU Affero General Public License v3.0](https://www.gnu.org/graphics/agplv3-155x51.png)](https://www.gnu.org/licenses/agpl-3.0.en.html#header)    
+Licensed under [GNU AGPL v3.0.](https://github.com/CrazyBotsz/Adv-Auto-Filter-Bot-V2/blob/main/LICENSE)
+Selling The Codes To Other People For Money Is *Strictly Prohibited*.
 
 ## Credits
 
-[![HTechMediaYT](https://img.shields.io/badge/HTechMedia-Youtube-red?style=for-the-badge&logo=youtube)](http://youtube.com/channel/UCrAM4Fg0zn7uLgAAfll-SWQ)
+ - Thanks To Dan For His Awsome [Libary](https://github.com/pyrogram/pyrogram)
+ - Thanks To SpEcHiDe For His Awesome [DeleteMessagesRoBot](https://github.com/SpEcHiDe/DeleteMessagesRoBot)
+ - Thanks To [AlbertEinsteinTG](https://github.com/AlbertEinsteinTG)
 
 
-# THANK YOU
+#### Made With ❤ By [@HTechMedia](https://telegram.dog/HTechMedia)
